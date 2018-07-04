@@ -8,7 +8,7 @@ to support the decentralized web.
 ### Node Installation
 * Clone this repo. 
 * To install dependencies `npm install`
-* To build the bundled javascript file `nom run-script build`. The file dist/transports-bundle.js is the output.
+* To build the bundled javascript file `npm run-script build`. The file dist/transports-bundle.js is the output.
 
 ###Repos:
 * *dweb-transports:* Common API to underlying transports (http, webtorrent, ipfs, yjs)
